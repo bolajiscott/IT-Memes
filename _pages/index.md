@@ -299,6 +299,14 @@ gallery:
     # your profile name and github page
     posted_by: MooesioMarcelino
     github: https://github.com/moesiomarcelino
+    
+    # insert image details below (spacing important!)
+  - image_path: /assets/memes/prof.png
+    # short description of image
+    alt: excuses developer give
+    # your profile name and github page
+    posted_by: bolajiscott
+    github: https://github.com/bolajiscott 
 
   # insert image details below (spacing important!)
   - image_path: /assets/memes/software_terminology.jpg
